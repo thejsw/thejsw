@@ -3,6 +3,8 @@
 🇰🇷 Korea
 🇯🇵 Preparing for software engineering career in Japan
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubthejsw)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubthejsw)](https://github.com/anuraghazra/github-readme-stats)
 ## About Me
 
 - JLPT N1
