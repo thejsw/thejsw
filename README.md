@@ -15,17 +15,9 @@ Based in Korea, Preparing for a software engineering career
 
 ## Tech Stack
 
-### Frontend
-
-TypeScript · React · Expo
-
-### Database
-
-Supabase · PostgreSQL
-
-### Cloud & AI
-
-AWS · Python
+- Frontend : TypeScript | React
+- Database : Supabase | PostgreSQL
+- Cloud,AI : AWS | Python
 
 
 ## Projects
