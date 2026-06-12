@@ -6,7 +6,7 @@
 
 🏯 JLPT N1
 
-🔬 Interested in Frontend, Backend, Cloud, and AI/Data Engineering
+🚕 Internship in AI Self-Driving Car company
 
 ## Tech Stack
 
