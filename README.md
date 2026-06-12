@@ -3,12 +3,16 @@
 🇰🇷 Korea
 🇯🇵 Preparing for software engineering career in Japan
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## About Me
 
-- JLPT N1
-- AWS Solutions Architect Associate
-- Building AI-powered TOEIC learning service
-- Interested in Cloud, Backend, SaaS
+- 🏯 JLPT N1
+- Building TOEIC flash5
+- Interested in Frontend, Backend, Cloud, AI/Data-Engineering
 
 ## Tech Stack
 
