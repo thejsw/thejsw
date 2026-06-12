@@ -4,15 +4,29 @@ Based in Korea, Preparing for a software engineering career
 ## About Me
 
 🎓 AI Software @ Soongsil University
+
 🏯 JLPT N1
+
 🚀 Building and operating TOEIC Flash5
-🔬 Interested in Frontend, Backend, Cloud, AI/Data-Engineering
+
+🔬 Interested in Frontend, Backend, Cloud, and AI/Data Engineering
+
+---
 
 ## Tech Stack
 
-Frontend : TypeScript | React | Expo
-Database : Supabase | PostgreSQL
-Cloud・AI : AWS | Python
+### Frontend
+
+TypeScript · React · Expo
+
+### Database
+
+Supabase · PostgreSQL
+
+### Cloud & AI
+
+AWS · Python
+
 
 ## Projects
 
