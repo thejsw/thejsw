@@ -1,13 +1,10 @@
 # Hi, I'm Sungwon Jo, Software Engineer
-Based in Korea, Preparing for a software engineering career
 
 ## About Me
 
 🎓 AI Software @ Soongsil University
 
 🏯 JLPT N1
-
-🚀 Building and operating TOEIC Flash5
 
 🔬 Interested in Frontend, Backend, Cloud, and AI/Data Engineering
 
@@ -21,10 +18,7 @@ Based in Korea, Preparing for a software engineering career
 ## Projects
 
 ### TOEIC Flash5
-TOEIC learning platform available on Web and Android.
-
-- AI-generated TOEIC quizzes
-- Personalized vocabulary learning
+TOEIC learning platform is an available
 
 WEB:
 https://toeicflash5.vercel.app/
