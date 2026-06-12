@@ -12,7 +12,7 @@
 
 - Frontend : TypeScript | React
 - Database : Supabase | PostgreSQL
-- Cloud,AI : AWS | Python
+- Cloud,AI : ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## Projects
