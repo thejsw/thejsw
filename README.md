@@ -11,8 +11,6 @@ Based in Korea, Preparing for a software engineering career
 
 🔬 Interested in Frontend, Backend, Cloud, and AI/Data Engineering
 
----
-
 ## Tech Stack
 
 - Frontend : TypeScript | React
